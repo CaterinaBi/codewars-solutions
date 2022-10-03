@@ -10,3 +10,8 @@ def friday_detector(month, year):
         four-digit integer indicating the year number
     '''
     
+
+# tests 
+print(friday_detector(5, 2022)) # True
+print(friday_detector(10, 2022)) # False
+print(friday_detector(6, 2025)) # True
