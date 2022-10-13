@@ -1,0 +1,9 @@
+{
+  "type": "transcription",
+  "transcription_config": {
+    "language": "fr",
+    "diarization": "speaker",
+    "operating_point": "enhanced",
+    "enable_entities": true
+  }
+}
